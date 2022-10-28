@@ -2,8 +2,8 @@
 
 #include <stdio.h>
 
-#define LOWER 0 
-#define UPPER 300
+#define LOWER 0     //should define a symbolic constant in upper case 
+#define UPPER 300   //the values LOWER UPPER STEP are symbolic constants and not variables
 #define STEP 20
 
 void main()
